@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685135925 source:c:\users\mohammed\desktop\moodle\course.cpp
+	"course.h"
+	<iostream>
+	<cstring>
+
+1685135882 c:\users\mohammed\desktop\moodle\course.h
+
+1685135952 source:c:\users\mohammed\desktop\moodle\main.cpp
+	"student.h"
+	"course.h"
+	<iostream>
+
+1685138943 source:c:\users\mohammed\desktop\moodle\student.cpp
+	"student.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1685135864 c:\users\mohammed\desktop\moodle\student.h
+
